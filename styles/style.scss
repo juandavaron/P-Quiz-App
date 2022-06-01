@@ -1,0 +1,18 @@
+// variables
+// Fonts
+$font-primary: 'Poppins', sans-serif;
+
+// Base reset
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $font-primary;
+}
+
+html {
+    font-size: 16px;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "quiz-app",
+  "main": "/src/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandavaron/P-Quiz-App.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Juan Varon <juanvarong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juandavaron/P-Quiz-App/issues"
+  },
+  "homepage": "https://github.com/juandavaron/P-Quiz-App#readme"
+}
